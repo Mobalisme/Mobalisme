@@ -1,5 +1,10 @@
 ## Hi there 👋
 <div align=center>
+
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM205dGwxdjVhejQyYnB6YWptaHgwMmZ6NzJqNGgzejZzc3UycTVodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GoRa9C6DkjKBa/giphy.gif">
+</p>
+  
 <h3>반갑습니다! 성민수입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
   
