@@ -12,8 +12,8 @@
 </h3>
 
 <figure class="hlaf">
-  <a href="link"><img src="https://github-readme-stats.vercel.app/api?username=Mobalisme&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold" align="float left"></a>
-  <a href="link"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobalisme&layout=compact" align="right"></a>
+  <a href="link"><img src="https://github-readme-stats.vercel.app/api?username=Mobalisme&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold" align="float left" width="500" height="250"></a>
+  <a href="link"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobalisme&layout=compact" align="right" width="450" height="250"></a>
 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMobalisme&count_bg=%23A85F1D&title_bg=%23C29928&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 
@@ -24,7 +24,16 @@
   🎨🎨내가 배우고 싶은 것
 </summary>
   <div>
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge"
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge">
+</details>
+<details align="center">
+<summary>
+  나의 정
+</summary>
+  <div>
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge">
 </details>
