@@ -22,7 +22,7 @@
 
 <details align="center">
 <summary>
-<h4>내가 배우고 싶은 것🎨🎨</h4
+<h4>내가 배우고 싶은 것🎨🎨</h4>
 </summary>
   <div>
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
