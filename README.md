@@ -10,6 +10,8 @@
   
 <h3 align="center">반갑습니다! 성민수입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
+<h5> 꿈을 꾼다는 것은, 목표가 있다는 것은 아름다운 것입니다. 
+안녕하세요 아름다움을 좋아하는 예술공학부 성민수입니다.</h5>
 
 
 <figure class="hlaf">
