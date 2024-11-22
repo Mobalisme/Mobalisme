@@ -33,9 +33,12 @@
   나의 정보
 </summary>
   <div>
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge">
+    
+  ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)(minsu:smsmv1122@gmail.com)
+  
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)]([https://www.instagram.com/yekangkim0810/](https://www.instagram.com/tjdalstn_2423/))
+
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@%EC%84%B1%EB%AF%BC%EC%88%98-s7s)
 </details>
     
 <details align="center">
