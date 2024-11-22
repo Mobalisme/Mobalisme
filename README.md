@@ -11,6 +11,7 @@
 <h3 align="center">반갑습니다! 성민수입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
 
+
 <figure class="hlaf">
   <a href="link"><img src="https://github-readme-stats.vercel.app/api?username=Mobalisme&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold" align="float left" width="500" height="250"></a>
   <a href="link"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobalisme&layout=compact" align="right" width="450" height="250"></a>
@@ -21,7 +22,7 @@
 
 <details align="center">
 <summary>
-  🎨🎨내가 배우고 싶은 것
+<h4>내가 배우고 싶은 것🎨🎨</h4
 </summary>
   <div>
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
@@ -30,11 +31,12 @@
 </details>
 <details align="center">
 <summary>
-  나의 정보
+  <h4> 나의 정보<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+  </h4>
 </summary>
   <div>
     
-  ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)(minsu:smsmv1122@gmail.com)
+  ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)(smsmv1122@gmail.com)
   
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)]([https://www.instagram.com/yekangkim0810/](https://www.instagram.com/tjdalstn_2423/))
 
@@ -43,7 +45,8 @@
     
 <details align="center">
 <summary>
-  내가 사용하는 컴퓨터 언어
+  <h4> 내가 사용하는 컴퓨터 언어<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+  <h4/>
 </summary>
   <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
