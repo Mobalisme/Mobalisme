@@ -30,10 +30,21 @@
 </details>
 <details align="center">
 <summary>
-  나의 정
+  나의 정보
 </summary>
   <div>
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
     <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge">
 </details>
+    
+<details align="center">
+<summary>
+  내가 사용하는 컴퓨터 언어
+</summary>
+  <div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
+</details>
+
+
