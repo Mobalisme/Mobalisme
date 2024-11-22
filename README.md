@@ -10,8 +10,24 @@
   
 <h3 align="center">반갑습니다! 성민수입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
-<h5> 꿈을 꾼다는 것은, 목표가 있다는 것은 아름다운 것입니다. 
+<h5 align="center"> 꿈을 꾼다는 것은, 목표가 있다는 것은 아름다운 것입니다. 
 안녕하세요 아름다움을 좋아하는 예술공학부 성민수입니다.</h5>
+<h5 align="center"> 영화 그래픽 디자이너# Hi Minsu github 👋
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=80&pause=900&color=F7B447&multiline=true&random=true&width=1300&height=120&lines=Welcome+to+Minsu%E2%80%99s+GitHub+world)](https://git.io/typing-svg)
+</P>
+
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM205dGwxdjVhejQyYnB6YWptaHgwMmZ6NzJqNGgzejZzc3UycTVodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GoRa9C6DkjKBa/giphy.gif">
+</p>
+  
+<h3 align="center">반갑습니다! 성민수입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
+<h5 align="center"> 꿈을 꾼다는 것은, 목표가 있다는 것은 아름다운 것입니다. 
+안녕하세요 아름다움을 좋아하는 예술공학부 성민수입니다.</h5>
+## <h5 align="center"> project
+It's scheduled to happen soon
 
 
 <figure class="hlaf">
